@@ -16,7 +16,7 @@
 - [Project delivery](#project-delivery)
 - [Resources](#resources)
 
-## Requirements
+## Requirements 
 
 - You must use semantic HTML5 elements for all the contents of the application
 - You have to use the jQuery library for the development of this pill
